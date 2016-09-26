@@ -18,7 +18,7 @@
 	<center>
 		<h1>Prueba AbrhilSoft</h1>
 		<strong>Fernando Hernández de la cruz</strong>
-		<span><a href="">Ver código fuente del ejercicio</a></span>
+		<span><a href="https://github.com/fherdlcruz/AbrhilPrueba/">Ver código fuente del ejercicio</a></span>
 	</center>
 	<div id="trabajadores"></div>
 </body>
