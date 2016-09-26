@@ -1,6 +1,7 @@
 <?php
 /**
 * Clase de conexión a la Base de datos
+* @fherdlcruz
 */
 class DataBase
 {
